@@ -9,5 +9,5 @@ var num2 = $('#number2');
 var operator = $('#operation');
 
 function doMath(){
-  
+  $('#equals').on('click')
 }
